@@ -1,2 +1,3 @@
-# DHT
-DHT Temperature and Humidity for Multiple Devices
+# shNode.DHT
+DHT Temperature and Humidity Modlue for Multiple Devices
+Based on AdaFruit Libraries
